@@ -1,0 +1,20 @@
+.flex
+{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
+body{
+    margin: 0;
+    display: flex;
+    
+}
+
+.flex:nth-child(1){background-color: orange;}
+.flex:nth-child(2){background-color: rgb(191, 13, 129);}
+.flex:nth-child(3){background-color: lemonchiffon;}
+.flex:nth-child(4){background-color: lightgreen;}

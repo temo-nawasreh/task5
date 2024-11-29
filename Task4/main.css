@@ -1,0 +1,24 @@
+.alpha
+{
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.container
+{
+    display: flex;
+    justify-content:start;
+    
+}
+
+
+.d1,.d2,.d3,.d4,.d5,.d6,.d7,.d8
+{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 20px;
+}
+
